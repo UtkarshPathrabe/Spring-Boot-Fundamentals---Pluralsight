@@ -28,3 +28,17 @@ B. @SpringBootApplication
 C. @SpringBootConfiguration  
 D. @SpringBootComponent  
 Answer: `@SpringBootApplication`  
+
+Q05. Which Spring Boot configuration allows you to define the active profile?  
+A. spring.profiles.active  
+B. applications-dev.properties  
+C. applications-prod.properties  
+D. applications-test.properties  
+Answer: `spring.profiles.active`  
+
+Q06. Which persistence (instance) provider does Spring Data Java Persistence API (JPA) use?  
+A. Hibernate  
+B. EclipseLink  
+C. OpenJPA  
+D. Java Database Connectivity (JDBC)  
+Answer: `Hibernate`  
