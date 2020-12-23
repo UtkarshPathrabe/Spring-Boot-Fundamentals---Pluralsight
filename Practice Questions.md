@@ -112,3 +112,17 @@ B. @Table
 C. @Entity  
 D. @Domain  
 Answer: `@Entity`  
+
+Q17. Which generic type represents the entire HTTP response returned to the client?  
+A. ResponseEntity  
+B. ClientResponse  
+C. ResponseClient  
+D. ResponseModel  
+Answer: `ResponseEntity`  
+
+Q18. Which extension must all schema files end in?  
+A. .graphiqls  
+B. .graphiql  
+C. .graphql  
+D. .graphqls
+Answer: `.graphqls`  
