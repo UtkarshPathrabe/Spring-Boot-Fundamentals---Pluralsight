@@ -124,7 +124,7 @@ Q18. Which extension must all schema files end in?
 A. .graphiqls  
 B. .graphiql  
 C. .graphql  
-D. .graphqls
+D. .graphqls  
 Answer: `.graphqls`  
 
 Q19. How do you create a GraphQL query resolver?  
