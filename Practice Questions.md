@@ -42,3 +42,18 @@ B. EclipseLink
 C. OpenJPA  
 D. Java Database Connectivity (JDBC)  
 Answer: `Hibernate`  
+
+Q07. Which plugin repackages your .jar and .war files to be executable?  
+A. Spring Boot Java Archive (JAR) plugin  
+B. Spring Boot Web Application Archive (WAR) plugin  
+C. Spring Boot Executable plugin  
+D. Spring Boot Maven plugin  
+Answer: `Spring Boot Maven plugin`  
+
+Q08. What is the base class for exceptions used for applying a status code to an HTTP response?  
+A. ResponseStatusException  
+B. ClientStatusException  
+C. EntityResponseException  
+D. HttpResponseException  
+Answer: `ResponseStatusException`  
+
