@@ -126,3 +126,17 @@ B. .graphiql
 C. .graphql  
 D. .graphqls
 Answer: `.graphqls`  
+
+Q19. How do you create a GraphQL query resolver?  
+A. Implement GraphQLMutationResolver.  
+B. Implement MutationResolver.  
+C. Implement QueryResolver.  
+D. Implement GraphQLQueryResolver.  
+Answer: `Implement GraphQLQueryResolver.`  
+
+Q20. How do you create a mutation resolver?  
+A. Implement GraphQLMutationResolver.  
+B. Implement MutationResolver.  
+C. Implement GraphQLQueryResolver.  
+D. Implement QueryResolver.  
+Answer: `Implement GraphQLMutationResolver.`  
