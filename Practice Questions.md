@@ -96,7 +96,7 @@ Q14. Which Spring Boot feature allows you to monitor the health of your applicat
 A. Spring Boot CLI  
 B. Starter Dependencies  
 C. Auto-configuration  
-D. Actuator
+D. Actuator  
 Answer: `Actuator`  
 
 Q15. Where do you place configuration for Spring Boot applications?  
