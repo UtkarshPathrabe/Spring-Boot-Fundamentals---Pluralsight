@@ -70,3 +70,17 @@ B. http://localhost:8080/actuator/loggers
 C. http://localhost:8080/actuator/info  
 D. http://localhost:8080/actuator/metrics  
 Answer: `http://localhost:8080/actuator/info`  
+
+Q11. How do you create a custom Actuator endpoint?  
+A. Implement the ActuatorIndicator interface.  
+B. Implement the MetricIndicator interface.  
+C. Implement the Infondicator interface.  
+D. Implement the HealthIndicator interface.  
+Answer: `Implement the HealthIndicator interface.`  
+
+Q12. Which annotation is used for unit testing?  
+A. @SpringTest  
+B. @SpringBootTest  
+C. @WebTest  
+D. @WebMvcTest  
+Answer: `@WebMvcTest`  
