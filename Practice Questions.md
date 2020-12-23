@@ -84,3 +84,31 @@ B. @SpringBootTest
 C. @WebTest  
 D. @WebMvcTest  
 Answer: `@WebMvcTest`  
+
+Q13. Which Spring Boot feature configures your dependencies for you?  
+A. CLI  
+B. Auto-configuration  
+C. Actuator  
+D. Starter Dependencies  
+Answer: `Auto-configuration`  
+
+Q14. Which Spring Boot feature allows you to monitor the health of your application?  
+A. Spring Boot CLI  
+B. Starter Dependencies  
+C. Auto-configuration  
+D. Actuator
+Answer: `Actuator`  
+
+Q15. Where do you place configuration for Spring Boot applications?  
+A. configuration.properties  
+B. resources.properties  
+C. springboot.properties  
+D. application.properties  
+Answer: `application.properties`  
+
+Q16. Which annotation represents entities in a database?  
+A. @Model  
+B. @Table  
+C. @Entity  
+D. @Domain  
+Answer: `@Entity`  
