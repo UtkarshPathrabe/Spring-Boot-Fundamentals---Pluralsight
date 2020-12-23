@@ -65,10 +65,10 @@ D. graphql-java-tools
 Answer: `graphql-spring-boot-starter`  
 
 Q10. Which Actuator endpoint displays general information about your application obtained from build files?  
-A. http://localhost:8080/actuator/health  
-B. http://localhost:8080/actuator/loggers  
-C. http://localhost:8080/actuator/info  
-D. http://localhost:8080/actuator/metrics  
+A. `http://localhost:8080/actuator/health`  
+B. `http://localhost:8080/actuator/loggers`  
+C. `http://localhost:8080/actuator/info`  
+D. `http://localhost:8080/actuator/metrics`  
 Answer: `http://localhost:8080/actuator/info`  
 
 Q11. How do you create a custom Actuator endpoint?  
