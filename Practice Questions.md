@@ -21,3 +21,10 @@ B. Auto-configuration
 C. Actuator  
 D. Spring Boot CLI  
 Answer: `Spring Boot CLI`  
+
+Q04. Which annotatation automatically includes the following three annotations `@SpringBootConfiguration`, `@EnableAutoConfiguration`, and `@ComponentScan`?  
+A. @SpringBoot  
+B. @SpringBootApplication  
+C. @SpringBootConfiguration  
+D. @SpringBootComponent  
+Answer: `@SpringBootApplication`  
